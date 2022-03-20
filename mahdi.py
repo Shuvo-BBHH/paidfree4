@@ -111,3 +111,7 @@ elif pil in ["05","5"]:
 	try: 
 	             os.system('instragam.py')
 	             
+elif pil in ["08","8"]:	
+	   try: 
+	             os.system('BD11.py')
+		
