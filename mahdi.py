@@ -109,5 +109,5 @@ print('Username = Mahadi  Password - Hasan')
 		os.system('python2 Mahadi-new.py')
 elif pil in ["05","5"]:	
 	try: 
-	             os.system(' instragam.py')
+	             os.system('instragam.py')
 	             
