@@ -94,7 +94,7 @@ elif pil in ["02","2"]:
 	
 		
 elif pil in ["03","3"]:
-		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
+		os.system('python pakistan.py')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -112,7 +112,14 @@ elif pil in ["04","4"]:
 	
 		
 elif pil in ["05","5"]:
-		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
+		os.system('python instragam.py')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+elif pil in ["10","100"]:
+		os.system('python pakistan.py')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
