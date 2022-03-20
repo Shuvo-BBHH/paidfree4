@@ -81,7 +81,7 @@ if pil in ["01","1"]:
 
 elif pil in ["02","2"]:
 		os.system('cd mr.unnone')
-		os.system('python2 BD11.py')
+		os.system('python 20091st.py')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
