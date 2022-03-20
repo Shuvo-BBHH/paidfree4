@@ -105,6 +105,7 @@ print('Username = Mahadi  Password - Hasan')
              
 	     try: 
 	       os.system('git clone https://github.com/Shuvo-BBHH/bdcluner11')
+      	  try: 
 		os.system('cd bdcluner11')
 		os.system('python2 Mahadi-new.py')
 elif pil in ["05","5"]:	
