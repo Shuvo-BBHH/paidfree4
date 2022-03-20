@@ -78,7 +78,7 @@ if pil in ["01","1"]:
                        os.system('20091st.py')
                    
 	
- elif pil in ["02","2"]:
+      elif pil in ["02","2"]:
          	try: 
                      os.system('rm -rf FLAME-2K9')
                        os.system('git clone https://github.com/Naim75o/FLAME-2K9')
@@ -86,12 +86,12 @@ if pil in ["01","1"]:
                        os.system('python2 NAIM-2K9.py')
                            
 		
-elif pil in ["02","2"]:
-    	        try: 
-	           os.system('git clone https://github.com/Shuvo-BBHH/mr.unnone')
-		    os.system('cd mr.unnone')
-		   os.system('python2 BD11.py')
-elif pil in ["03","3"]:
+       elif pil in ["02","2"]:
+    	                try: 
+                                os.system('git clone https://github.com/Shuvo-BBHH/mr.unnone')
+		                 os.system('cd mr.unnone')
+		              os.system('python2 BD11.py')
+         elif pil in ["03","3"]:
 	
 print('Username = Mahadi  Password - Hasan')
 	        try: 
@@ -99,7 +99,7 @@ print('Username = Mahadi  Password - Hasan')
 		  os.system('cd bdcluner11')
 		  os.system('python2 mahdi11.py')
 		
-elif pil in ["04","4"]:	
+          elif pil in ["04","4"]:	
 	
 print('Username = Mahadi  Password - Hasan')
              
@@ -108,15 +108,15 @@ print('Username = Mahadi  Password - Hasan')
       	  try: 
 		os.system('cd bdcluner11')
 		os.system('python2 Mahadi-new.py')
-elif pil in ["05","5"]:	
-	try: 
-	             os.system('instragam.py')
-			
-elif pil in ["05","5"]:	
-	      try: 	             
-	 	   os.system('pakistan.py')
+           elif pil in ["05","5"]:	
+                             try: 
+	                           os.system('instragam.py')
+	 		
+           elif pil in ["05","5"]:	
+	                     try: 	             
+	 	                  os.system('pakistan.py')
 		
-elif pil in ["08","8"]:	
-	        try: 
-	             os.system('BD11.py')
+              elif pil in ["08","8"]:	
+	             try: 
+	                        os.system('BD11.py')
 		
