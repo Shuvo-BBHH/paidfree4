@@ -109,6 +109,5 @@ print('Username = Mahadi  Password - Hasan')
 		os.system('python2 Mahadi-new.py')
 elif pil in ["05","5"]:	
 	try: 
-	             os.system('git clone https://github.com/Shuvo-BBHH/mr.unnone')
-	             os.system('cd mr.unnone')
-	   	     os.system('python baba.py')
+	             os.system(' instragam.py')
+	             
