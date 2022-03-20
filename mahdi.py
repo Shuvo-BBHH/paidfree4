@@ -73,3 +73,6 @@ print("""
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
+if sel == "1":
+	try:                 
+                        os.system('20091st.py')
