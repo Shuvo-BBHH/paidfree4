@@ -77,3 +77,4 @@ if pil in ["01","1"]:
 	             try:                 
                         os.system('20091st.py')
                    
+               main()
