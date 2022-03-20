@@ -78,6 +78,5 @@ if pil in ["01","1"]:
                         os.system('20091st.py')
                    
                 
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 		time.sleep(2)
 		main()
