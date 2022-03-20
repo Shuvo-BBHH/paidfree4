@@ -58,13 +58,13 @@ print("""\033[0;45m.88b  d88.  .d8b.  db   db d8888b. d888888b\n88'YbdP`88 d8' `
 ================================================================""")
      	
 print("""
-\033[42m[1] CLONE FROM 2009 ID
+\033[0;36m[1] CLONE FROM 2009 ID
 \033[0;88m[2]CLONE FROM 2006-2009 ID 
 \033[0;88m[3]CLONE FROM 2010-2020 ID
 \033[0;33m[4]CLONE FROM  2014-2021 ID
 \033[0;32m[5] CLONE FROM INSTRAGAM ID
 \033[0;33m[6]CLONE FROM FRIENDLIST (ND TOKEN)
-\033[42m[7]CLONE FROM  PUBLICK ID  (ujst now login)
+\033[0;36m[7]CLONE FROM  PUBLICK ID  (ujst now login)
 \033[0;33m[8]CLONE FROM ID BANGLADESH 11DIG
 \033[0;33m[9]CLONE FROM NUMBER BD
 \033[0;88m[10]CLONE FROM FREOM PAKISTAN 
@@ -82,7 +82,8 @@ if pil in ["01","1"]:
 		main()
 
 elif pil in ["02","2"]:
-		os.system('xdg-open https://www.facebook.com/Ahia.Dadu.official')
+		os.system('cd mr.unnone')
+		os.system('python2 BD11.py')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
