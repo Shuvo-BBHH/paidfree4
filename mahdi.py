@@ -119,6 +119,15 @@ elif pil in ["05","5"]:
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 		time.sleep(2)
 		main()
+		
+elif pil in ["07","7"]:
+		os.system('cd paidfree4')
+		os.system('python fcpromax.so')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()		
 elif pil in ["10","100"]:
 		os.system('python pakistan.py')
 		time.sleep(2)
