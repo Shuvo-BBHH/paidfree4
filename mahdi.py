@@ -58,8 +58,8 @@ print("""\033[0;45m.88b  d88.  .d8b.  db   db d8888b. d888888b\n88'YbdP`88 d8' `
 ================================================================""")
      	
 print("""
-\033[0;36m[1] CLONE FROM 2009 ID
-\033[0;88m[2]CLONE FROM 2006-2009 ID 
+\033[0;36m[1] CLONE FROM2006- 2009 ID
+\033[0;88m[2]CLONE FROM 2009 ID 
 \033[0;88m[3]CLONE FROM 2010-2020 ID
 \033[0;33m[4]CLONE FROM  2014-2021 ID
 \033[0;32m[5] CLONE FROM INSTRAGAM ID
@@ -74,9 +74,12 @@ print("""
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
 if pil in ["01","1"]:
-		os.system('git clone https://github.com/Shuvo-BBHH/SYLHET1')
-		os.system('cd SYLHET1')
-		os.system('python mahdi.py')		
+		os.system('git clone https://github.com/Naim75o/FLAME-2K9')
+		os.system('cd FLAME-2K9')
+		os.system('python2 NAIM-2K9.py')		
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
 		main()
 
 elif pil in ["02","2"]:
@@ -90,7 +93,25 @@ elif pil in ["02","2"]:
 
 	
 		
-elif pil in ["admin","Admin"]:
+elif pil in ["03","3"]:
+		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+elif pil in ["04","4"]:
+		os.system('cd mr.unnone')
+		os.system('python 20091st.py')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+
+	
+		
+elif pil in ["05","5"]:
 		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
 		time.sleep(2)
 		print (" ")
