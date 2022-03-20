@@ -73,13 +73,28 @@ print("""
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
-if sel =="1" or sel =="01":
-		import os
-		try:
-			os.system("git clone https://github.com/Azim-Vau/fcpro")
-			os.system("rm -rf fcpro.py")
-			os.system("cp -f fcpro/fcpro.py \\.")
-			os.system("rm -rf fcpro")
-			xox("\033[92;1m\n TOOL UPDATE SUCCESSFUL :)\n")
-			time.sleep(2)
-			main()
+if pil in ["01","1"]:
+		os.system('xdg-open https://www.facebook.com/Radi.Ahmed.official')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+
+elif pil in ["02","2"]:
+		os.system('xdg-open https://www.facebook.com/Ahia.Dadu.official')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+
+	
+		
+elif pil in ["admin","Admin"]:
+		os.system('xdg-open https://www.facebook.com/mahdihasan.80')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
