@@ -76,11 +76,7 @@ pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 if pil in ["01","1"]:
 		os.system('git clone https://github.com/Shuvo-BBHH/SYLHET1')
 		os.system('cd SYLHET1')
-		os.system('python mahdi.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
+		os.system('python mahdi.py')		
 		main()
 
 elif pil in ["02","2"]:
