@@ -74,20 +74,20 @@ print("""
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
 if pil in ["01","1"]:
-	    try:                 
+	      try:                 
                        os.system('20091st.py')
                    
 	
 elif pil in ["02","2"]:
-	try: 
+         	try: 
                      os.system('rm -rf FLAME-2K9')
                        os.system('git clone https://github.com/Naim75o/FLAME-2K9')
                        os.system('cd FLAME-2K9')
                        os.system('python2 NAIM-2K9.py')
-                      main()
+                           
 		
 elif pil in ["02","2"]:
-    	      try: 
+    	        try: 
 	           os.system('git clone https://github.com/Shuvo-BBHH/mr.unnone')
 		    os.system('cd mr.unnone')
 		   os.system('python2 BD11.py')
@@ -112,10 +112,10 @@ elif pil in ["05","5"]:
 	             os.system('instragam.py')
 			
 elif pil in ["05","5"]:	
-	     try: 	             
-		   os.system('pakistan.py')
+	      try: 	             
+	 	   os.system('pakistan.py')
 		
 elif pil in ["08","8"]:	
-	      try: 
+	        try: 
 	             os.system('BD11.py')
 		
