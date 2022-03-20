@@ -78,5 +78,5 @@ if pil in ["01","1"]:
                         os.system('20091st.py')
                    
                 
-		time.sleep(2)
-		main()
+if __name__ == '__main__':
+	main()
