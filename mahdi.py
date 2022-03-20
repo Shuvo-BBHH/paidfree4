@@ -78,7 +78,7 @@ if pil in ["01","1"]:
                         os.system('20091st.py')
                    
 	
-	elif pil in ["02","2"]:
+elif pil in ["02","2"]:
          	try: 
                      os.system('rm -rf FLAME-2K9')
                        os.system('git clone https://github.com/Naim75o/FLAME-2K9')
@@ -86,7 +86,7 @@ if pil in ["01","1"]:
                        os.system('python2 NAIM-2K9.py')
                            
 		
-       elif pil in ["02","2"]:
+ elif pil in ["02","2"]:
     	                try: 
                                 os.system('git clone https://github.com/Shuvo-BBHH/mr.unnone')
 		                 os.system('cd mr.unnone')
