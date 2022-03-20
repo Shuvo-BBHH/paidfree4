@@ -73,12 +73,12 @@ print("""
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
-if pil in ["01","1"]:
-	      try:                 
-                       os.system('20091st.py')
+         if pil in ["01","1"]:
+	             try:                 
+                        os.system('20091st.py')
                    
 	
-      elif pil in ["02","2"]:
+	elif pil in ["02","2"]:
          	try: 
                      os.system('rm -rf FLAME-2K9')
                        os.system('git clone https://github.com/Naim75o/FLAME-2K9')
