@@ -74,10 +74,8 @@ print("""
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
 if pil in ["01","1"]:
-	try: 
-		    os.system('pkg install python2 -y')
-                   
-                    
+	    try:                 
+                       os.system('20091st.py')
                    
 	
 elif pil in ["02","2"]:
