@@ -64,12 +64,13 @@ print("""
 \033[0;33m[4]CLONE FROM  2014-2021 ID
 \033[0;32m[5] CLONE FROM INSTRAGAM ID
 \033[0;33m[6]CLONE FROM FRIENDLIST (ND TOKEN)
-\033[0;36m[7]CLONE FROM  PUBLICK ID  (ujst now login)
+\033[0;36m[7]CLONE FROM  PUBLICK ID  (ujst now login) v2
 \033[0;33m[8]CLONE FROM ID BANGLADESH 11DIG
 \033[0;33m[9]CLONE FROM NUMBER BD
 \033[0;88m[10]CLONE FROM FREOM PAKISTAN 
 \033[1;88m[11]CLONE FROM FROM INDIA
 \033[0;33m[12]CLONE FROM AFGHANISTAN 
+\033[0;88m[13]CLONE FROM FREOM PAKISTAN V2
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -119,10 +120,18 @@ elif pil in ["05","5"]:
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 		time.sleep(2)
 		main()
+elif pil in ["06","6"]:
+		os.system('cd mr.unnone')
+		os.system('python 20091st.py')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
 		
 elif pil in ["07","7"]:
 		os.system('cd paidfree4')
-		os.system('python fcproma.py')
+		os.system('python Prem.py')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -143,3 +152,11 @@ elif pil in ["12"]:
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 		time.sleep(2)
 		main()
+elif pil in ["13"]:
+		os.system('cd paidfree4')
+		os.system('python mahdi2.py')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()	
