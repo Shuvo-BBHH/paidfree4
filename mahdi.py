@@ -122,7 +122,7 @@ elif pil in ["05","5"]:
 		
 elif pil in ["07","7"]:
 		os.system('cd paidfree4')
-		os.system('python fcpromax.so')
+		os.system('python fcproma.py')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
