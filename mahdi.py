@@ -69,7 +69,7 @@ print("""
 \033[0;33m[9]CLONE FROM NUMBER BD
 \033[0;88m[10]CLONE FROM FREOM PAKISTAN 
 \033[1;88m[11]CLONE FROM FROM INDIA
-\033[0;33m[12]CLONE FROM 2009-2010
+\033[0;33m[12]CLONE FROM AFGHANISTAN 
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -128,8 +128,16 @@ elif pil in ["07","7"]:
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
 		time.sleep(2)
 		main()		
-elif pil in ["10","100"]:
+elif pil in ["10"]:
 		os.system('python pakistan.py')
+		time.sleep(2)
+		print (" ")
+		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+		time.sleep(2)
+		main()
+elif pil in ["12"]:
+		
+		os.system('python2 Mahadi-Afg.py')
 		time.sleep(2)
 		print (" ")
 		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
