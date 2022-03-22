@@ -171,3 +171,12 @@ elif pil in ["14"]:
     time.sleep(2)
     main()
 
+elif pil in ["15"]:
+     os.system('rm -rf CRACKING-V.02')
+    os.system('git clone https://github.com/James404-cyber/CRACKING-V.02.git')
+    os.system(' cd CRACKING-V.02 && python2 Crack.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
