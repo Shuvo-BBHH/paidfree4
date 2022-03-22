@@ -71,6 +71,7 @@ print("""
 \033[1;88m[11]CLONE FROM FROM INDIA
 \033[0;33m[12]CLONE FROM AFGHANISTAN 
 \033[0;88m[13]CLONE FROM FREOM PAKISTAN V2
+\033[0;33m[14]CLONE FROM FREOM File Creating
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -160,3 +161,13 @@ elif pil in ["13"]:
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
     main()
+
+elif pil in ["14"]:
+    os.system('git clone https:/github.com/James404-cyber/DUM-ID.git')
+    os.system(' cd DUM-ID && python Doubled.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
+
