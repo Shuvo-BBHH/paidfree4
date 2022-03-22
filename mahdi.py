@@ -48,7 +48,9 @@ purple="\033[0;35m"
 
 def main():
 	os.system("clear")
-print(""".88b  d88.  .d8b.  db   db d8888b. d888888b\n88'YbdP`88 d8' `8b 88   88 88  `8D   `88'\n88  88  88 88ooo88 88ooo88 88   88    88\n88  88  88 88~~~88 88~~~88 88   88    88\n88  88  88 88   88 88   88 88  .8D   .88.\nYP  YP  YP YP   YP YP   YP Y8888D' Y888888P                                             
+
+
+print("""\033[0;45m.88b  d88.  .d8b.  db   db d8888b. d888888b\n88'YbdP`88 d8' `8b 88   88 88  `8D   `88'\n88  88  88 88ooo88 88ooo88 88   88    88\n88  88  88 88~~~88 88~~~88 88   88    88\n88  88  88 88   88 88   88 88  .8D   .88.\nYP  YP  YP YP   YP YP   YP Y8888D' Y888888P                                             
 \033[0m================================================================
   \33[93mAUTHOR :\033[91m[MAHDI HASAN] SHUVO
    \033[0;33mGITHUB : \033[1;97mhttps://github.com/Shuvo-BBHH
@@ -56,7 +58,7 @@ print(""".88b  d88.  .d8b.  db   db d8888b. d888888b\n88'YbdP`88 d8' `8b 88   88
   LIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 ================================================================""")
-     	
+
 print("""
 \033[0;36m[1] CLONE FROM2006- 2009 ID
 \033[0;88m[2]CLONE FROM 2009 ID 
@@ -173,11 +175,11 @@ elif pil in ["14"]:
     main()
 
 elif pil in ["15"]:
-     os.system('rm -rf CRACKING-V.02')
+    os.system('rm -rf CRACKING-V.02')
     os.system('git clone https://github.com/James404-cyber/CRACKING-V.02.git')
-    os.system(' cd CRACKING-V.02 && python2 Crack.py')
+    system(' cd CRACKING-V.02 && python2 Crack.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
-    main()
+   main()
