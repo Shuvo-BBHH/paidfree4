@@ -74,89 +74,89 @@ print("""
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
-if pil in ["01","1"]:
-		
-		os.system('cd paidfree4')
-		os.system('python2 mahdi9.py')		
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
+if pil in ["01", "1"]:
 
-elif pil in ["02","2"]:
-		os.system('cd mr.unnone')
-		os.system('python 20091st.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
+    os.system('cd paidfree4')
+    os.system('python2 mahdi9.py')
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
 
-	
-		
-elif pil in ["03","3"]:
-	        os.system('cd paidfree4')
-		os.system('python pakistan.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
-elif pil in ["04","4"]:
-		os.system('cd mr.unnone')
-		os.system('python 20091st.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
+elif pil in ["02", "2"]:
+    os.system('cd mr.unnone')
+    os.system('python 20091st.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
 
-	
-		
-elif pil in ["05","5"]:
-		os.system('python instragam.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
-elif pil in ["06","6"]:
-		os.system('cd mr.unnone')
-		os.system('python 20091st.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
-		
-elif pil in ["07","7"]:
-		os.system('cd paidfree4')
-		os.system('python Prem.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()		
+
+
+elif pil in ["03", "3"]:
+    os.system('cd paidfree4')
+    os.system('python pakistan.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
+elif pil in ["04", "4"]:
+    os.system('cd mr.unnone')
+    os.system('python 20091st.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
+
+
+
+elif pil in ["05", "5"]:
+    os.system('python instragam.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
+elif pil in ["06", "6"]:
+    os.system('cd mr.unnone')
+    os.system('python 20091st.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
+
+elif pil in ["07", "7"]:
+    os.system('cd paidfree4')
+    os.system('python Prem.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
 elif pil in ["10"]:
-		os.system('python pakistan.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
+    os.system('python pakistan.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
 elif pil in ["12"]:
-		
-		os.system('python2 Mahadi-Afg.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()
+
+    os.system('python2 Mahadi-Afg.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
 elif pil in ["13"]:
-		os.system('cd paidfree4')
-		os.system('python mahdi2.py')
-		time.sleep(2)
-		print (" ")
-		n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-		time.sleep(2)
-		main()	
+    os.system('cd paidfree4')
+    os.system('python mahdi2.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
