@@ -166,7 +166,7 @@ elif pil in ["13"]:
 
 elif pil in ["14"]:
     os.system('git clone https:/github.com/James404-cyber/DUM-ID.git')
-    os.system(' cd DUM-ID && python Doubled.py')
+    os.system('cd DUM-ID && python Doubled.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
