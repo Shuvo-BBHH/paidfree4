@@ -214,8 +214,7 @@ elif pil in ["15"]:
     time.sleep(2)
     
 elif pil in ["16"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/shuvook.git && cd shuvook')
-    system('python2 baba.py')
+    os.system('git clone https://github.com/Shuvo-BBHH/shuvook.git && cd shuvook && python2 baba.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
