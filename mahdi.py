@@ -90,6 +90,7 @@ print("""
 \033[0;35m[15]CLONE FROM LATEST FB CRACKING LOGIN
 
 \033[0;33m[16]CLONE FROM ID BANGLADESH 8DIG (All SIM)
+\033[0;88m[17]CLONE FROM 2009 ID [MAO]
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -223,6 +224,13 @@ elif pil in ["15"]:
     
 elif pil in ["16"]:
     os.system('git clone https://github.com/Shuvo-BBHH/shuvook.git && cd shuvook && python2 baba.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+elif pil in ["17"]:
+    os.system('pip2 install mclone')
+    os.system('mclone')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
