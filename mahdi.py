@@ -115,7 +115,7 @@ elif pil in ["02", "2"]:
 
 elif pil in ["03", "3"]:
     os.system('cd paidfree4')
-    os.system('python pakistan.py')
+    os.system('python2 pakistan.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -133,7 +133,7 @@ elif pil in ["04", "4"]:
 
 
 elif pil in ["05", "5"]:
-    os.system('python instragam.py')
+    os.system('cd paidfree4 && python instragam.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -173,7 +173,7 @@ elif pil in ["09", "9"]:
     time.sleep(2)
     main()
 elif pil in ["10"]:
-    os.system('python pakistan.py')
+    os.system('cd paidfree4 && python2 pakistan.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
