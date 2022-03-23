@@ -179,6 +179,14 @@ elif pil in ["10"]:
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
     main()
+	
+	
+elif pil in ["11"]:
+    os.system('pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/Azim-vau/clone-india.git ; cd clone-india ; python2 india.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)	
 elif pil in ["12"]:
 
     os.system('python2 Mahadi-Afg.py')
