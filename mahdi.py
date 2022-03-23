@@ -204,9 +204,9 @@ elif pil in ["14"]:
     main()
 
 elif pil in ["15"]:
-    os.system('rm -rf CRACKING-V.02')
+    os.system('pkg install nodejs -y && pip install requests bs4 futures mechanize && rm -rf qurat && git clone https://github.com/Qurat677/qurat.git && cd qurat')
     os.system('git clone https://github.com/James404-cyber/CRACKING-V.02.git')
-    system(' cd CRACKING-V.02 && python2 Crack.py')
+    system('python Nx.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
