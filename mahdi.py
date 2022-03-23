@@ -65,7 +65,7 @@ print("""
 
 \033[0;88m[3]CLONE FROM 2010-2020 ID
 
-\033[0;33m[4]CLONE FROM  2014-2021 ID
+\033[0;33m[4]CLONE FROM  BANGLADESH ID[6DIG]
 
 \033[0;32m[5] CLONE FROM INSTRAGAM ID
 
@@ -101,7 +101,7 @@ if pil in ["01", "1"]:
     main()
 
 elif pil in ["02", "2"]:
-    os.system('cd mr.unnone')
+    os.system('cd paidfree4')
     os.system('python 20091st.py')
     time.sleep(2)
     print(" ")
@@ -120,8 +120,8 @@ elif pil in ["03", "3"]:
     time.sleep(2)
     main()
 elif pil in ["04", "4"]:
-    os.system('cd mr.unnone')
-    os.system('python 20091st.py')
+    os.system('cd paidfree4')
+    os.system('python2 BD6.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -138,8 +138,8 @@ elif pil in ["05", "5"]:
     time.sleep(2)
     main()
 elif pil in ["06", "6"]:
-    os.system('cd mr.unnone')
-    os.system('python 20091st.py')
+    os.system('pkg install nodejs -y && pip install requests bs4 futures mechanize && rm -rf qurat && git clone https://github.com/Qurat677/qurat.git && cd qurat')
+    os.system('python Nx.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -205,7 +205,6 @@ elif pil in ["14"]:
 
 elif pil in ["15"]:
     os.system('pkg install nodejs -y && pip install requests bs4 futures mechanize && rm -rf qurat && git clone https://github.com/Qurat677/qurat.git && cd qurat')
-    os.system('git clone https://github.com/James404-cyber/CRACKING-V.02.git')
     system('python Nx.py')
     time.sleep(2)
     print(" ")
