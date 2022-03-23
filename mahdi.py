@@ -60,19 +60,33 @@ LIVE in Sylhet (Read in class 10)
 ================================================================""")
 print("""
 \033[0;36m[1] CLONE FROM2006- 2009 ID
+
 \033[0;88m[2]CLONE FROM 2009 ID 
+
 \033[0;88m[3]CLONE FROM 2010-2020 ID
+
 \033[0;33m[4]CLONE FROM  2014-2021 ID
+
 \033[0;32m[5] CLONE FROM INSTRAGAM ID
+
 \033[0;33m[6]CLONE FROM FRIENDLIST (ND TOKEN)
+
 \033[0;36m[7]CLONE FROM  PUBLICK ID  (ujst now login) v2
+
 \033[0;33m[8]CLONE FROM ID BANGLADESH 11DIG
+
 \033[0;33m[9]CLONE FROM NUMBER BD
+
 \033[0;88m[10]CLONE FROM FREOM PAKISTAN 
+
 \033[1;88m[11]CLONE FROM FROM INDIA
+
 \033[0;33m[12]CLONE FROM AFGHANISTAN 
+
 \033[0;88m[13]CLONE FROM FREOM PAKISTAN V2
+
 \033[0;33m[14]CLONE FROM FREOM File Creating
+
 \033[0;35m[15]CLONE FROM LATEST FB CRACKING LOGIN
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
@@ -135,6 +149,22 @@ elif pil in ["06", "6"]:
 elif pil in ["07", "7"]:
     os.system('cd paidfree4')
     os.system('python Prem.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
+elif pil in ["08", "8"]:
+    os.system('cd paidfree4')
+    os.system('python2 BD11.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+    main()
+elif pil in ["09", "9"]:
+    os.system('git clone https://github.com/Azim-vau/smbf.git && cd smbf')
+    os.system('python2 smbf.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
