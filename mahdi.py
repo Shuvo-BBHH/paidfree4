@@ -223,18 +223,8 @@ elif pil in ["17"]:
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
 elif pil in ["18"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/fbboT')
-    os.system('cd fbboT')
-    os.system('python mahdi.py')
-    time.sleep(2)
-    print(" ")
-    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-    time.sleep(2)
+    os.system('git clone https://github.com/Shuvo-BBHH/fbboT && cd fbboT && python mahdi.py')
+    
 elif pil in ["19"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/fbboT')
-    os.system('cd fbboT')
-    os.system('python autocomment.py')
-    time.sleep(2)
-    print(" ")
-    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
-    time.sleep(2)
+    os.system('git clone https://github.com/Shuvo-BBHH/fbboT && cd fbboT && python autocomment.py')
+  
