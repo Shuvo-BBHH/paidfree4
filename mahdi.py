@@ -54,10 +54,10 @@ print("""\33[93m███╗   ███╗ █████╗██╗  ██�
 \033[0m================================================================
 \33[93mAUTHOR :\033[91m[MAHDI HASAN] SHUVO
 \033[0;33mGITHUB : \033[1;97mhttps://github.com/====
-WELL COME SYLHET GAMG (IAM NEW MEMBER IN YOUR GRUP)
-LIVE in Sylhet (Read in class 10)
+\033[1;31mFb ; https://web.facebook.com/mahdihasan.80
+\033[1;33mLIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
-================================================================""")
+\033[0;36m================================================================""")
 print("""
 \033[1;36m[1]CLONE FROM2006- 2009 ID
 \033[1;32m[2]CLONE FROM 2009 ID 
