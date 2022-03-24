@@ -74,7 +74,7 @@ print("""
 \033[0;88m[13]CLONE FROM FREOM PAKISTAN V2(All SIM)
 \033[1;33m[14]CLONE FROM FREOM File Creating
 \033[1;35m[15]CLONE FROM LATEST FB CRACKING LOGIN
-\033[1;33m[16]CLONE FROM ID BANGLADESH 8DIG (All SIM)
+\033[1;33m[16]CLONE FROM ID BANGLADESH 9DIG (All SIM)
 \033[1;32m[17]CLONE FROM 2009 ID [MAO]
 \033[1;37m[18]FB AUTO SHARE (need TOKEN)
 \033[1;33m[19]FB AUTO COMMENT(need TOKEN)
@@ -210,7 +210,7 @@ elif pil in ["15"]:
     time.sleep(2)
     
 elif pil in ["16"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/shuvook.git && cd shuvook && python2 baba.py')
+    os.system('git clone https://github.com/Shuvo-BBHH/shuvook.git && cd shuvook && python2 bd9.py cvx')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
