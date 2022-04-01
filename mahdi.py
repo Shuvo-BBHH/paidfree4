@@ -78,6 +78,7 @@ print("""
 \033[1;32m[17]CLONE FROM 2009 ID [MAO]
 \033[1;37m[18]FB AUTO SHARE (need TOKEN)
 \033[1;33m[19]FB AUTO COMMENT(need TOKEN)
+\033[1;33m[20]CLONE YAHOO 
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -228,3 +229,7 @@ elif pil in ["18"]:
 elif pil in ["19"]:
     os.system('git clone https://github.com/Shuvo-BBHH/fbboT && cd fbboT && python autocomment.py')
   
+	
+elif pil in ["19"]:
+    os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs && python yahoo.py')	
+	
