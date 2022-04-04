@@ -64,8 +64,8 @@ print("""
 \033[1;88m[3]CLONE FROM 2010-2020 ID
 \033[1;33m[4]CLONE FROM  BANGLADESH 6DIG[All SIM]
 \033[1;32m[5]CLONE FROM INSTRAGAM ID
-\033[1;33m[6]CLONE FROM FRIENDLIST (ND TOKEN)
-\033[1;36m[7]CLONE FROM  PUBLICK ID  (ujst now login) v2
+\033[1;33m[6]CLONE FROM FRIENDLIST (NEED TOKEN)
+\033[1;36m[7]CLONE FROM  PUBLICK ID v2
 \033[1;32m[8]CLONE FROM ID BANGLADESH 11DIG[All SIM]
 \033[1;33m[9]CLONE FROM NUMBER BD
 \033[1;88m[10]CLONE FROM FREOM PAKISTAN 
@@ -79,6 +79,10 @@ print("""
 \033[1;37m[18]FB AUTO SHARE (need TOKEN)
 \033[1;33m[19]FB AUTO COMMENT(need TOKEN)
 \033[1;33m[20]CLONE YAHOO 
+\033[1;36m[21]CLONE FROM  PUBLICK ID  (Best) v2
+\033[1;36m[22]CLONE FROM  PUBLICK ID  (best) v2
+\033[1;33m[23]CLONE FROM FREOM File Creating V
+\033[1;36m[24]CLONE FROM2003- 2005 ID
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -230,6 +234,38 @@ elif pil in ["19"]:
     os.system('git clone https://github.com/Shuvo-BBHH/fbboT && cd fbboT && python autocomment.py')
   
 	
-elif pil in ["19"]:
+elif pil in ["20"]:
     os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs && python yahoo.py')	
+
+elif pil in ["20"]:
+    os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs && python ')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)	
+
+elif pil in ["21"]:
+    os.system('git clone https://github.com/Shuvo-BBHH/mall && cd mall && python Adf.py ')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
 	
+elif pil in ["22"]:
+    os.system('git clone https://github.com/Shuvo-BBHH/mall && cd mall && python Juttbrand.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)	
+elif pil in ["23"]:
+    os.system('git clone https://github.com/Shuvo-BBHH/mall && cd mall && python2 file.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+elif pil in ["24"]:
+    os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs && python2 811.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
