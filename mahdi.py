@@ -7,12 +7,7 @@ import sys
 import time
 
 os.system("pip install requests")
- uncompyle6 version 3.7.4
-# Python bytecode 2.7 (62211)
-# Decompiled from: Python 2.7.18 (default, Mar  1 2022, 15:44:46) 
-# [GCC Android (7714059, based on r416183c1) Clang 12.0.8 (https://android.google
-# Embedded file name: <RED-MAFIA>
-# Compiled at: 2022-02-17 23:01:11
+
 import os, marshal
 try:
     import requests, os, sys, time, datetime, re, random, hashlib, threading, json, getpass, urllib, cookielib, requests, os, time, uuid, requests
