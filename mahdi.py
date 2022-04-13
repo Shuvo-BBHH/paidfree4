@@ -132,7 +132,7 @@ def ip():
 
 os.system("clear")
 print '\x1b[1;31;1mLOGIN KI LIYE APPROVAL LYLO PEHLY '
-    print ''
+print ''
     time.sleep(1)
     try:
         to = open('/sdcard/.sa.txt', 'r').read()
