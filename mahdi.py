@@ -176,7 +176,7 @@ elif pil in ["15"]:
     time.sleep(2)
     
 elif pil in ["16"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/shuvook.git && cd shuvook && python2 bd9.py cvx')
+    os.system('git clone https://github.com/Shuvo-BBHH/shuvook.git && cd shuvook && python2 bd9.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -189,15 +189,15 @@ elif pil in ["17"]:
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
 elif pil in ["18"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/fbboT && cd fbboT && python mahdi.py')
-    
+    os.system('git clone https://github.com/Shuvo-BBHH/fbboT')
+    os.system('cd fbboT && python mahdi.py')
 elif pil in ["19"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/fbboT && cd fbboT && python autocomment.py')
-  
+    os.system('git clone https://github.com/Shuvo-BBHH/fbboT')
+    os.system('cd fbboT && python autocomment.py')
 	
 elif pil in ["20"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs && python yahoo.py')	
-
+    os.system('git clone https://github.com/Shuvo-BBHH/texs')	
+    os.system('cd texs && python yahoo.py')
 elif pil in ["20"]:
     os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs && python ')
     time.sleep(2)
@@ -206,26 +206,30 @@ elif pil in ["20"]:
     time.sleep(2)	
 
 elif pil in ["21"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/mall && cd mall && python Adf.py ')
+    os.system('git clone https://github.com/Shuvo-BBHH/mall')
+    os.system('cd mall && python Adf.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
 	
 elif pil in ["22"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/mall && cd mall && python Juttbrand.py')
+    os.system('git clone https://github.com/Shuvo-BBHH/mall')
+    os.system('cd mall && python Juttbrand.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)	
 elif pil in ["23"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/mall && cd mall && python2 file.py')
+    os.system('git clone https://github.com/Shuvo-BBHH/mall')
+    os.system('cd mall && python2 file.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
 elif pil in ["24"]:
-    os.system('git clone https://github.com/Shuvo-BBHH/texs && cd texs && python2 811.py')
+    os.system('git clone https://github.com/Shuvo-BBHH/texs')
+     os.system('cd texs && python2 811.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
