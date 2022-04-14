@@ -1,5 +1,4 @@
 
-
 import os
 
 import sys
@@ -44,7 +43,7 @@ print("""
 \033[1;36m[21]CLONE FROM  PUBLICK ID  (Best) v2
 \033[1;36m[22]CLONE FROM  PUBLICK ID  (best) v2
 \033[1;33m[23]CLONE FROM FREOM File Creating V
-\033[1;36m[24]CLONE FROM2003- 2005 ID
+\033[1;36m[24]CLONE FROM2003- 2005 ID[VARY SLOW]
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -230,7 +229,7 @@ elif pil in ["23"]:
     time.sleep(2)
 elif pil in ["24"]:
     os.system('git clone https://github.com/Shuvo-BBHH/texs')
-     os.system('cd texs && python2 811.py')
+    os.system('cd texs && python2 811.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
