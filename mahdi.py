@@ -215,7 +215,7 @@ elif pil in ["21"]:
 	
 elif pil in ["22"]:
     os.system('git clone https://github.com/Shuvo-BBHH/mall')
-    os.system('cd mall && python Juttbrand.py')
+    os.system('cd mall && python fcpromax.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
