@@ -42,8 +42,9 @@ print("""
 \033[1;36m[21]CLONE FROM  PUBLICK ID  (Best) v2
 \033[1;36m[22]CLONE FROM  PUBLICK ID  (best) v2
 \033[1;33m[23]CLONE FROM FREOM File Creating V
-\033[1;36m[24]CLONE FROM2003- 2005 ID[VARY SLOW]
+\033[1;36m[24]CLONE FROM 2003- 2005 ID[VARY SLOW]
 \033[1;36m[25]CLONE FROM ID BANGLADESH 11DIG[BEST]
+\033[1;36m[26]CLONE FROM Thailand ID
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -207,7 +208,7 @@ elif pil in ["20"]:
 
 elif pil in ["21"]:
     os.system('git clone https://github.com/Shuvo-BBHH/mall')
-    os.system('cd mall && python Adf.py')
+    os.system('cd mall && python Zahid.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
@@ -238,6 +239,14 @@ elif pil in ["24"]:
 elif pil in ["25"]:
     os.system('git clone https://github.com/Shuvo-BBHH/mall')
     os.system('cd mall && python2 RR_Premium.py')
+    time.sleep(2)
+    print(" ")
+    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+    time.sleep(2)
+
+elif pil in ["26"]:
+    os.system('git clone https://github.com/Shuvo-BBHH/mall')
+    os.system('cd mall && python2 Thailand.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
