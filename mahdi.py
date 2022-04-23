@@ -5,7 +5,7 @@ import sys
 import time
 os.system('clear')
 os.system("pip install requests")
-
+os.system('clear')
 def menu():
     os.system('clear')
 
@@ -14,7 +14,7 @@ print("""\33[93m███╗   ███╗ █████╗██╗  ██�
 \33[93mAUTHOR :\033[91m[MAHDI HASAN] SHUVO
 \033[0;33mGITHUB : \033[1;97mhttps://github.com/====
 \033[1;31mFb ; https://web.facebook.com/m.mahdi.80
-WHATAPP:01887408882
+\033[1;36mWHATAPP:01887408882
 \033[1;33mLIVE in Sylhet (Read in class 10)
 \033[42mNo NEED GF \033[0;31mIF YOU LOVE ME I LOVE YOU IF U HAT ME I FUCK YOU 
 \033[0;36m================================================================""")
@@ -43,7 +43,7 @@ print("""
 \033[1;36m[22]CLONE FROM  PUBLICK ID  (best) v2
 \033[1;33m[23]CLONE FROM FREOM File Creating V
 \033[1;36m[24]CLONE FROM 2003- 2005 ID[VARY SLOW]
-\033[1;36m[25]CLONE FROM ID BANGLADESH 11DIG[BEST]
+\033[1;33m[25]CLONE FROM ID BANGLADESH 11DIG[just now]
 \033[1;36m[26]CLONE FROM Thailand ID
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
