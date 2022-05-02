@@ -41,7 +41,7 @@ print("""
 \033[1;33m[20]CLONE DEATH YAHOO 
 \033[1;36m[21]CLONE FROM  PUBLICK ID  (Best)64 bid
 \033[1;36m[22]CLONE FROM  PUBLICK ID  (best)64 bid
-\033[1;33m[23]CLONE FROM FREOM File Creating V
+\033[1;33m[23]CLONE FROM FREOM File Creating V2
 \033[1;36m[24]CLONE FROM 2003- 2005 ID[VARY SLOW]
 \033[1;33m[25]CLONE FROM ID BANGLADESH 11DIG[BEST]
 \033[1;36m[26]CLONE FROM Thailand ID
@@ -92,8 +92,8 @@ elif pil in ["04", "4"]:
 
 
 elif pil in ["05", "5"]:
-    so.system('git clone https://github.com/Shuvo-BBHH/paidfree4')
-    os.system('cd paidfree4 && python instragam.py')
+    so.system('git clone https://github.com/Shuvo-BBHH/mall')
+    os.system('cd mall && python ins.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
