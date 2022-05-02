@@ -42,7 +42,7 @@ print("""
 \033[1;36m[21]CLONE FROM  PUBLICK ID  (Best)64 bid
 \033[1;36m[22]CLONE FROM  PUBLICK ID  (best)64 bid
 \033[1;33m[23]CLONE FROM FREOM File Creating V2
-\033[1;36m[24]CLONE FROM 2003- 2005 ID[VARY SLOW]
+\033[1;36m[24]CLONE FROM 2004- 2009 ID[Yahoo]
 \033[1;33m[25]CLONE FROM ID BANGLADESH 11DIG[BEST]
 \033[1;36m[26]CLONE FROM Thailand ID
 \033[1;36m[27]CLONE FROM  PUBLICK ID  (best)32 bid
@@ -237,7 +237,7 @@ elif pil in ["23"]:
     time.sleep(2)
 elif pil in ["24"]:
     os.system('git clone https://github.com/Shuvo-BBHH/texs')
-    os.system('cd texs && python2 811.py')
+    os.system('cd texs && python2 santo.py')
     time.sleep(2)
     print(" ")
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
