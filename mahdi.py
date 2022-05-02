@@ -46,6 +46,7 @@ print("""
 \033[1;33m[25]CLONE FROM ID BANGLADESH 11DIG[BEST]
 \033[1;36m[26]CLONE FROM Thailand ID
 \033[1;36m[27]CLONE FROM  PUBLICK ID  (best)32 bid
+\033[1;36m[28]CLONE FROM  PUBLICK ID  (best)32 bid
 """)
 pil = input("\033[1;97m[\033[1;94m?\033[1;97m] CHOOSE: ")
 
@@ -258,11 +259,17 @@ elif pil in ["26"]:
     n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
     time.sleep(2)
 elif pil in ["27"]:   
-    os.system('pip install requests && pip install mechanize && pip install requests bs4 && pip install bs4')
     os.system('git clone https://github.com/Technical-Abm/Abm-Dynamic')
     os.system('cd Abm-Dynamic')
+    os.system('pip install requests && pip install mechanize && pip install requests bs4 && pip install bs4')
     os.system('python dynamic.py')
     time.sleep(2)
-    print(" ")
-    n = input("[ \n\033[1;94mBACK \n\033[1;97m]")
+ 
+   
+elif pil in ["28"]:   
+    os.system('rm -rf RamXan')
+    os.system('git clone https://github.com/ramzantanha/RamXan')
+    os.system('cd RamXan')
+    os.system('python RamXan.py')
     time.sleep(2)
+    
