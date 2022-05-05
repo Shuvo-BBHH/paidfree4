@@ -273,3 +273,9 @@ elif pil in ["28"]:
     os.system('python RamXan.py')
     time.sleep(2)
     
+elif pil in ["29"]:   
+    os.system('git clone https://github.com/Shuvo-BBHH/mall')
+    os.system('cd $HOME')
+    os.system('cd mall')
+    os.system('python3 okk.py')
+    time.sleep(2)
